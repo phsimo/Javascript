@@ -1,0 +1,48 @@
+{
+	"Header":[
+			{"Data":"Network"},
+			{"Data":"Owner"},
+			{"Data":"Feeds"},
+			{"Data":"Notes"},
+			{"Data":"HomePage"},
+			{"Data":"Logo"}
+			],
+	"Row":[
+		{
+			"Network":"AMC",
+			"Owner":"AMC Networks",
+			"Feeds":[
+					{"Feed":"AMC East"},
+					{"Feed":"AMC On Demand"}
+					],
+			"Notes":"formerly American Movie Classics (English) and (Spanish) audio feed",
+			"HomePage":"http://www.amctv.com/",
+			"Logo":"http://cs-server.usc.edu:45678/hw/hw4/AMC_logo_2013.png"
+		},
+		{
+			"Network":"Bravo",
+			"Owner":"NBC Universal",
+			"Feeds":[
+					{"Feed":"Bravo East"},
+					{"Feed":"Bravo West"},
+					{"Feed":"Bravo On Demand"}
+					],
+			"Notes":"(English) and (Spanish) audio feed",
+			"HomePage":"http://www.bravotv.com/",
+			"Logo":"http://cs-server.usc.edu:45678/hw/hw4/bravo.png"
+		},
+		{
+			"Network":"Comedy Central",
+			"Owner":"Viacom Media Networks",
+			"Feeds":[
+					{"Feed":"Comedy Central East"},
+					{"Feed":"Comedy Central West"},
+					{"Feed":"Comedy Central On Demand"}
+					],
+			"Notes":"A product of the merger of Viacom's HA! TV Comedy Network and The Comedy Channel, owned by Time Warner. (English) and (Spanish) audio feed",
+			"HomePage":"http://cc.com/",
+			"Logo":"http://cs-server.usc.edu:45678/hw/hw4/ComedyCentral.png"
+		}
+	  ]
+}
+
